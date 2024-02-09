@@ -1,0 +1,2 @@
+https://github.com/gaseri/website/blob/main/mkdocs.yml
+https://github.com/gaseri/website/raw/0f89c5a3afdc20020a4995aa917bbbd6d24ef2bd/mkdocs.yml
