@@ -9,7 +9,13 @@ if [[ -n "${GITHUB_TOKEN:-}" ]]; then
   github_auth=(--header "Authorization: Bearer $GITHUB_TOKEN")
 fi
 
-for d in */; do
+if [[ $# -eq 0 ]]; then
+  projects=(*/)
+else
+  projects="$@"
+fi
+
+for d in "${projects[@]}"; do
   d="${d%/}"
   cd "$d"
   printf "%s -> " "$d" >&2
@@ -29,7 +35,7 @@ for d in */; do
   echo "https://github.com/$repo/blob/$branch/$mkdocs_yml" | tee /dev/stderr >project.txt
   echo "https://github.com/$repo/raw/$commit/$mkdocs_yml" >>project.txt
   tail -1 project.txt | xargs curl -sfL | (mkdocs-get-deps -f - || true) | grep . >requirements.in.new
-  (grep ' ' requirements.in || true) >>requirements.in.new
+  (grep ' ' requirements.in 2>/dev/null || true) >>requirements.in.new
   mv requirements.in.new requirements.in
   cd ..
   # Rename the directory in case the repository has been renamed
@@ -39,4 +45,4 @@ for d in */; do
   fi
 done
 
-echo */requirements.in | xargs -t -n1 -P4 pip-compile -q --allow-unsafe --strip-extras --no-annotate --no-header -U
+printf "%s/requirements.in\n" "${projects[@]}" | xargs -t -n1 -P4 pip-compile -q --allow-unsafe --strip-extras --no-annotate --no-header -U
