@@ -1,2 +1,2 @@
 https://github.com/gledos/ggame/blob/master/mkdocs.yml
-https://github.com/gledos/ggame/raw/6fb28e3a08dda1771057ad9be15a9aa4aabc947c/mkdocs.yml
+https://github.com/gledos/ggame/raw/1b2f45d875c67d2b7a39e220bf8071beb85eecc4/mkdocs.yml

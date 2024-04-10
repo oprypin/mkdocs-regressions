@@ -1,4 +1,3 @@
-fontawesome-markdown
 mdx-truly-sane-lists
 mkdocs
 mkdocs-autorefs
@@ -13,3 +12,4 @@ plantuml-markdown
 pymdown-extensions
 python-markdown-math
 markdown <3.4
+fontawesome-markdown # keep

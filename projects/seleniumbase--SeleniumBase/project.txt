@@ -1,2 +1,2 @@
 https://github.com/seleniumbase/SeleniumBase/blob/master/mkdocs.yml
-https://github.com/seleniumbase/SeleniumBase/raw/77ee5149a34a0bbca17c27a7e745d0754e3ad9e3/mkdocs.yml
+https://github.com/seleniumbase/SeleniumBase/raw/332913648dd7ef60c60c364496cab5c5577fdcca/mkdocs.yml

@@ -2,5 +2,5 @@ mkdocs
 mkdocs-exclude
 mkdocs-material
 mkdocs-nav-weight
-mkdocs-publisher
 pymdown-extensions
+mkdocs-publisher # keep

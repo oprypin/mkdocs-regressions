@@ -1,2 +1,2 @@
 https://github.com/johnthagen/python-blueprint/blob/main/mkdocs.yml
-https://github.com/johnthagen/python-blueprint/raw/e63028508da9ba58df4783b3b326d5d91040087f/mkdocs.yml
+https://github.com/johnthagen/python-blueprint/raw/f13b0f4d84bb125c2abe04abace9089ca5daf6a7/mkdocs.yml

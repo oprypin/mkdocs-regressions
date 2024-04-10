@@ -1,4 +1,3 @@
-fontawesome-markdown
 mdx-truly-sane-lists
 mkdocs
 mkdocs-awesome-pages-plugin
@@ -11,4 +10,5 @@ plantuml-markdown
 pymdown-extensions
 python-markdown-math
 markdown <3.4
+fontawesome-markdown # keep
 tabulate # keep

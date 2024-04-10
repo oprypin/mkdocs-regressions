@@ -1,2 +1,2 @@
 https://github.com/autowarefoundation/autoware.universe/blob/main/mkdocs.yaml
-https://github.com/autowarefoundation/autoware.universe/raw/dcd29d30894af1f92559d727995bc086b553e260/mkdocs.yaml
+https://github.com/autowarefoundation/autoware.universe/raw/81c432e8110ca54acc5e6fc4a757eff87724c39b/mkdocs.yaml

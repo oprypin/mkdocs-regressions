@@ -1,2 +1,2 @@
 https://github.com/k3d-io/k3d/blob/main/mkdocs.yml
-https://github.com/k3d-io/k3d/raw/6dc88396df7bdeeb7b14bed87cb0742658101544/mkdocs.yml
+https://github.com/k3d-io/k3d/raw/934b3c87a447ce373b5eb7f048b3cc81ad1f40d9/mkdocs.yml

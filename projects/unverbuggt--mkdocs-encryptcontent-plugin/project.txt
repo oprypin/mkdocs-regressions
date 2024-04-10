@@ -1,2 +1,2 @@
 https://github.com/unverbuggt/mkdocs-encryptcontent-plugin/blob/version3/documentation/mkdocs.yml
-https://github.com/unverbuggt/mkdocs-encryptcontent-plugin/raw/93ebcfee5b93211beec6db2fba43ef1b87d292b7/documentation/mkdocs.yml
+https://github.com/unverbuggt/mkdocs-encryptcontent-plugin/raw/59ebffffb9db60a0bc26f964fd661840fb616c2c/documentation/mkdocs.yml
