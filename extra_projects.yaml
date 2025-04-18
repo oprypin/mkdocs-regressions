@@ -1,0 +1,8 @@
+- mkdocs_plugin: awesome-pages
+  pypi_id: mkdocs-awesome-pages-plugin
+- mkdocs_plugin: drawio_file
+  pypi_id: mkdocs-drawio-file
+- mkdocs_plugin: mkdocs-version-annotations
+  pypi_id: mkdocs-version-annotations
+- mkdocs_plugin: material/privacy
+  pypi_id: mkdocs-material

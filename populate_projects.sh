@@ -2,6 +2,11 @@
 
 set -e -u -o pipefail
 
+cd "$(dirname "$0")"
+
+curl -sfL https://raw.githubusercontent.com/mkdocs/catalog/refs/heads/main/projects.yaml -o projects.yaml
+cat extra_projects.yaml >>projects.yaml
+
 cd projects
 
 github_auth=()
@@ -34,7 +39,7 @@ for d in "${projects[@]}"; do
   commit="${BASH_REMATCH[2]}"
   echo "https://github.com/$repo/blob/$branch/$mkdocs_yml" | tee /dev/stderr >project.txt
   echo "https://github.com/$repo/raw/$commit/$mkdocs_yml" >>project.txt
-  tail -1 project.txt | xargs curl -sfL | (mkdocs-get-deps -f - || true) | grep . >requirements.in.new
+  tail -1 project.txt | xargs curl -sfL | mkdocs-get-deps -p ../../projects.yaml -f - | grep . >requirements.in.new
   (grep ' ' requirements.in 2>/dev/null || true) >>requirements.in.new
   mv requirements.in.new requirements.in
   cd ..
