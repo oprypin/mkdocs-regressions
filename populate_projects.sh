@@ -45,4 +45,4 @@ for d in "${projects[@]}"; do
   fi
 done
 
-printf "%s/requirements.in\n" "${projects[@]}" | xargs -t -n1 -P4 pip-compile -q --allow-unsafe --strip-extras --no-annotate --no-header -U
+printf "%s/requirements\n" "${projects[@]}" | xargs -t -P4 -I'{}' uv pip compile -q --universal --allow-unsafe --strip-extras --no-annotate --no-header -U '{}.in' -o '{}.txt'
