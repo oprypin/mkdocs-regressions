@@ -2,3 +2,5 @@ sitemap.xml.gz
 search_index.json
 *rss*.xml
 lunr.js
+atom.xml
+*.pickle

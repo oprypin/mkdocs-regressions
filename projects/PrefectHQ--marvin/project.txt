@@ -1,2 +1,0 @@
-https://github.com/PrefectHQ/marvin/blob/main/mkdocs.yml
-https://github.com/PrefectHQ/marvin/raw/34de4292e193e071c3a894eecfd5a7859485cae6/mkdocs.yml

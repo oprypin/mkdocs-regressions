@@ -1,2 +1,0 @@
-https://github.com/danny-avila/LibreChat/blob/main/mkdocs.yml
-https://github.com/danny-avila/LibreChat/raw/0fe47cf1f81423b18dfe2ab859a410cf110900c8/mkdocs.yml

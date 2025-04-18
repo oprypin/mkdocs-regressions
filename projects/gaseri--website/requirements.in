@@ -1,6 +1,7 @@
 mkdocs
 mkdocs-material
 mkdocs-material[imaging]
+mkdocs-meta-descriptions-plugin
 mkdocs-minify-plugin
 mkdocs-rss-plugin
 pymdown-extensions

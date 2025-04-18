@@ -7,5 +7,6 @@ mkdocs-ezlinks-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-glightbox
 mkdocs-material
+mkdocs-material[imaging]
 mkdocs-meta-descriptions-plugin
 pymdown-extensions

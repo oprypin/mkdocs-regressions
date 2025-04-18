@@ -1,5 +1,6 @@
 mkdocs
 mkdocs-entangled-plugin
+mkdocs-include-markdown-plugin
 mkdocs-material
 mkdocstrings
 mkdocstrings-python

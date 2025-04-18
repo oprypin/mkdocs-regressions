@@ -1,2 +1,2 @@
 https://github.com/twpayne/chezmoi/blob/master/assets/chezmoi.io/mkdocs.yml
-https://github.com/twpayne/chezmoi/raw/b1f40b85ffed581797fd084d5b907ae6827962c9/assets/chezmoi.io/mkdocs.yml
+https://github.com/twpayne/chezmoi/raw/cedd158060fa3ed6d439c07cd1f5954954e1bd6d/assets/chezmoi.io/mkdocs.yml

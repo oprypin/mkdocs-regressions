@@ -1,2 +1,2 @@
 https://github.com/Noovolari/leapp/blob/master/mkdocs.yml
-https://github.com/Noovolari/leapp/raw/6900586b74f33e8b8d95d1f9b3c9776384340d82/mkdocs.yml
+https://github.com/Noovolari/leapp/raw/1df7b30b7fd42a798d7450e4a05ada411f63d775/mkdocs.yml

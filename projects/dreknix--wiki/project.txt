@@ -1,2 +1,2 @@
 https://github.com/dreknix/wiki/blob/main/mkdocs.yml
-https://github.com/dreknix/wiki/raw/6bb9b4f577b071d57b5328751d8469e876c1347b/mkdocs.yml
+https://github.com/dreknix/wiki/raw/63b2d8fcfc2b172e3e2e5787004bf21fecb0e4d2/mkdocs.yml

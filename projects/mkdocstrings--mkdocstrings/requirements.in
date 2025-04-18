@@ -1,13 +1,14 @@
 markdown-callouts
 markdown-exec
 mkdocs
+mkdocs-autorefs
 mkdocs-coverage
-mkdocs-gen-files
-mkdocs-git-committers-plugin-2
-mkdocs-literate-nav
+mkdocs-git-revision-date-localized-plugin
+mkdocs-llmstxt
 mkdocs-material
 mkdocs-minify-plugin
 mkdocs-redirects
+mkdocs-section-index
 mkdocstrings
 mkdocstrings-python
 pymdown-extensions

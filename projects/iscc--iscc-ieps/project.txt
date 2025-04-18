@@ -1,2 +1,2 @@
 https://github.com/iscc/iscc-ieps/blob/main/mkdocs.yml
-https://github.com/iscc/iscc-ieps/raw/74110e4cf99214671e773af917d74bb6417a0dc1/mkdocs.yml
+https://github.com/iscc/iscc-ieps/raw/d7c606f8403cb1bdb18f91a4aa9da271110c2a14/mkdocs.yml

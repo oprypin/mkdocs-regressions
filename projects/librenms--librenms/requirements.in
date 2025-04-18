@@ -1,5 +1,6 @@
 mkdocs
 mkdocs-exclude
+mkdocs-include-dir-to-nav
 mkdocs-macros-plugin
 mkdocs-material
 mkdocs-minify-plugin

@@ -1,2 +1,2 @@
 https://github.com/tombreit/mkdocs-pagetree-plugin/blob/main/mkdocs.yml
-https://github.com/tombreit/mkdocs-pagetree-plugin/raw/7dc4ea033a23fd9b22c2c1540cfcede5c99e8fe5/mkdocs.yml
+https://github.com/tombreit/mkdocs-pagetree-plugin/raw/85f150ce4ff9c9dbc25467d2c4188bc280373fa2/mkdocs.yml

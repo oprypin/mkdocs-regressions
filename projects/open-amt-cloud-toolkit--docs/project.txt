@@ -1,2 +1,0 @@
-https://github.com/open-amt-cloud-toolkit/docs/blob/main/mkdocs.yml
-https://github.com/open-amt-cloud-toolkit/docs/raw/f9ab268165066036a174a594b083d83c22463de7/mkdocs.yml

@@ -1,2 +1,2 @@
 https://github.com/SublimeText-Markdown/MarkdownEditing/blob/master/mkdocs.yml
-https://github.com/SublimeText-Markdown/MarkdownEditing/raw/bcf8d0be998eb29109377fa29c3cb149ace2a262/mkdocs.yml
+https://github.com/SublimeText-Markdown/MarkdownEditing/raw/9e20e19aa16f3bb87e9559d9f0eb73079c847f37/mkdocs.yml

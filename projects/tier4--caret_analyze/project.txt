@@ -1,2 +1,0 @@
-https://github.com/tier4/caret_analyze/blob/main/mkdocs.yaml
-https://github.com/tier4/caret_analyze/raw/4956a7e41828c69996c325563d5a059e4783b49d/mkdocs.yaml
