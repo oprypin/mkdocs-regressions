@@ -41,6 +41,7 @@ for d in "${projects[@]}"; do
   # Rename the directory in case the repository has been renamed
   dir_name="${repo//\//--}"
   if [[ "$d" != "$dir_name" ]]; then
+    rm -rf "$dir_name"
     mv "$d" "$dir_name"
   fi
 done
